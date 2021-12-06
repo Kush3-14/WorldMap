@@ -1,0 +1,9 @@
+Number,Volcano Name,Country,Region,Latitude,Longitude,Elev,Type,Status,Last Known
+1,Barren Island,India,Andaman Island,12.278,93.858,354,Stratovolcano,Active,2017
+2,Narcodam,India,Andaman Island,13.43,94.28,710,Stratovolcano,Dormant,1618
+3,Deccan Plateau,India,Central India,18.51,73.43,1500,Unknown,Unknown,25 Ma BP
+4,Baratang Island,India,Andaman Island,12.07,92.47,532,Mud Volcano,Active,2003
+5,Dhinodhar Hills,India,Gujarat,23.45,69.34,386,,Extinct,500 Ma BP
+6,Dhosi Hills,India,Haryana,28.06,76.03,740,,Extinct,750 Ma BP
+7,Tosham Hills,India,Haryana,28.88,75.92,207,,Extinct,732 Ma BP
+8,Loktak Lake,India,Manipur,24.45,93.47,768,Supervolcanic caldera,Unknown,100 Ma BP
