@@ -3,7 +3,7 @@
    - **It shows Population data by colors**
        - *Green represents population < 10000000*
        - *Orange represents 10000000<=population<20000000*
-       - Red represents population > 20000000*
+       - Red represents population > 20000000
    - It also shows data about volcanoes in India
     
 ![image](https://user-images.githubusercontent.com/82490587/144839582-6743d1f4-9f3b-4dcc-9e8e-9624ec718bf3.png)
